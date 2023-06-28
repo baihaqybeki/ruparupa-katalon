@@ -1,0 +1,48 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+MobileTesting,,,,2023-06-28 08:42:28,2023-06-28 08:46:51,4m - 23.532s,PASSED
+,,,,,,,
+Test Cases/MobileTesting,,,,2023-06-28 08:42:28,2023-06-28 08:46:51,4m - 22.944s,PASSED
+"startExistingApplication(APPS, STOP_ON_FAILURE)",,,,2023-06-28 08:42:30,2023-06-28 08:42:50,20.410s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/Splashscreen/android.widget.ImageView""), 15, OPTIONAL)",,For the first time open the application,,2023-06-28 08:42:50,2023-06-28 08:42:53,2.750s,PASSED
+"tap(findTestObject(""MobileTesting/Splashscreen/android.widget.TextView - Lewati (Splashscreen)""), 15, OPTIONAL)",,For the first time open the application,,2023-06-28 08:42:53,2023-06-28 08:43:08,15.434s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/Official Pertner/android.widget.TextView - Official Partner""), 15, OPTIONAL)",,For the first time open the application,,2023-06-28 08:43:08,2023-06-28 08:43:24,15.381s,PASSED
+"tap(findTestObject(""MobileTesting/Official Pertner/android.widget.TextView - Lewati (Official Partner)""), 15, OPTIONAL)",,For the first time open the application,,2023-06-28 08:43:24,2023-06-28 08:43:40,16.031s,PASSED
+"tap(findTestObject(""MobileTesting/Home/android.widget.TextView - Tutup (Homepage)""), 15, OPTIONAL)",,,,2023-06-28 08:43:40,2023-06-28 08:43:55,15.359s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/Home/android.widget.TextView - Rumah Tangga Text (Homepage)""), 15, STOP_ON_FAILURE)",,,,2023-06-28 08:43:55,2023-06-28 08:43:57,1.357s,PASSED
+"tap(findTestObject(""MobileTesting/Home/android.widget.TextView - Rumah Tangga Text (Homepage)""), 15, STOP_ON_FAILURE)",,,,2023-06-28 08:43:57,2023-06-28 08:43:57,0.689s,PASSED
+"tap(findTestObject(""MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Lihat Semua Rumah Tangga""), 15, STOP_ON_FAILURE)",,,,2023-06-28 08:43:57,2023-06-28 08:43:58,1.036s,PASSED
+"scrollToText(""Filter"", STOP_ON_FAILURE)",,,,2023-06-28 08:43:58,2023-06-28 08:44:08,9.864s,PASSED
+"tap(findTestObject(""MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Filter (Rumah Tangga)""), 0)",,,,2023-06-28 08:44:08,2023-06-28 08:44:09,0.569s,PASSED
+"scrollToText(""Buy 1 Get 1"", STOP_ON_FAILURE)",,,,2023-06-28 08:44:09,2023-06-28 08:44:18,9.140s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2023-06-28 08:44:18,2023-06-28 08:44:20,2.089s,PASSED
+"tap(findTestObject(""MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Buy 1 Get 1 (Filter)""), 0)",,,,2023-06-28 08:44:20,2023-06-28 08:44:21,0.569s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2023-06-28 08:44:21,2023-06-28 08:44:23,2.010s,PASSED
+"tap(findTestObject(""MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Terapkan (Filter)""), 0)",,,,2023-06-28 08:44:23,2023-06-28 08:44:24,1.228s,PASSED
+"tap(findTestObject(""MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Terapkan (Filter)""), 0)",,,,2023-06-28 08:44:24,2023-06-28 08:44:24,0.507s,PASSED
+"tap(findTestObject(""MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Paling Sesuai (Rumah Tangga)""), 0)",,,,2023-06-28 08:44:24,2023-06-28 08:44:26,1.353s,PASSED
+"tap(findTestObject(""MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Product Populer Radio Button (Urutkan)""), 0)",,,,2023-06-28 08:44:26,2023-06-28 08:44:28,2.138s,PASSED
+"tap(findTestObject(""MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Terapkan (Filter)""), 0)",,,,2023-06-28 08:44:28,2023-06-28 08:44:29,0.946s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Product (Rumah Tangga)""), 0)",,,,2023-06-28 08:44:29,2023-06-28 08:44:30,1.299s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2023-06-28 08:44:30,2023-06-28 08:44:32,2.008s,PASSED
+"tap(findTestObject(""MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Product (Rumah Tangga)""), 0)",,,,2023-06-28 08:44:32,2023-06-28 08:44:33,0.579s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2023-06-28 08:44:33,2023-06-28 08:44:35,2.011s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/PDP/android.widget.TextView - Product Title (PDP)""), 0)",,,,2023-06-28 08:44:35,2023-06-28 08:45:06,31.068s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2023-06-28 08:45:06,2023-06-28 08:45:08,2.022s,PASSED
+"tap(findTestObject(""MobileTesting/PDP/android.widget.TextView - Keranjang (PDP)""), 0)",,,,2023-06-28 08:45:08,2023-06-28 08:46:00,52.645s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/PDP/android.widget.TextView - Keranjang Confirm (PDP)""), 0)",,,,2023-06-28 08:46:00,2023-06-28 08:46:01,0.425s,PASSED
+"tap(findTestObject(""MobileTesting/PDP/android.widget.TextView - Keranjang Confirm (PDP)""), 0)",,,,2023-06-28 08:46:01,2023-06-28 08:46:01,0.516s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/PDP/android.widget.TextView - Lihat Keranjang Saya (PDP)""), 0)",,,,2023-06-28 08:46:01,2023-06-28 08:46:04,2.642s,PASSED
+"tap(findTestObject(""MobileTesting/PDP/android.widget.TextView - Lihat Keranjang Saya (PDP)""), 0)",,,,2023-06-28 08:46:04,2023-06-28 08:46:05,0.901s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/Cart/android.widget.TextView - Keranjang Belanja Title (Cart)""), 0)",,,,2023-06-28 08:46:05,2023-06-28 08:46:08,3.025s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/Cart/android.widget.TextView - Product Title (Cart)""), 0, OPTIONAL)",,,,2023-06-28 08:46:08,2023-06-28 08:46:08,0.444s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/Cart/android.widget.TextView - Price (Cart)""), 0, OPTIONAL)",,,,2023-06-28 08:46:08,2023-06-28 08:46:39,30.236s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/Cart/android.widget.TextView - Buy 1 Get 1 (Cart)""), 0)",,,,2023-06-28 08:46:39,2023-06-28 08:46:39,0.347s,PASSED
+"tap(findTestObject(""MobileTesting/Cart/android.widget.TextView - Lanjut ke Pembayaran (Cart)""), 0)",,,,2023-06-28 08:46:39,2023-06-28 08:46:40,0.973s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/Login/android.widget.TextView - Login (Login)""), 0)",,,,2023-06-28 08:46:40,2023-06-28 08:46:43,2.912s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/Login/android.widget.TextView - Daftar (Login)""), 0)",,,,2023-06-28 08:46:43,2023-06-28 08:46:44,0.899s,PASSED
+"setText(findTestObject(""MobileTesting/Login/android.widget.EditText - Email atau No handphone (Login)""), RandomEmail, 0)",,,,2023-06-28 08:46:44,2023-06-28 08:46:45,1.537s,PASSED
+"setEncryptedText(findTestObject(""MobileTesting/Login/android.widget.EditText - Kata sandi (Login)""), RandomPassword, 0)",,,,2023-06-28 08:46:45,2023-06-28 08:46:46,1.216s,PASSED
+"tap(findTestObject(""MobileTesting/Login/android.widget.TextView - Masuk (Login)""), 0, STOP_ON_FAILURE)",,,,2023-06-28 08:46:46,2023-06-28 08:46:49,2.253s,PASSED
+"verifyElementExist(findTestObject(""MobileTesting/Login/android.widget.TextView - Informasi tidak valid (Login)""), 0)",,,,2023-06-28 08:46:49,2023-06-28 08:46:49,0.406s,PASSED
+driver = getDriver(),,,,2023-06-28 08:46:49,2023-06-28 08:46:49,0.002s,PASSED
+"driver.terminateApp(""com.mobileappruparupa"")",,,,2023-06-28 08:46:49,2023-06-28 08:46:51,2.266s,PASSED

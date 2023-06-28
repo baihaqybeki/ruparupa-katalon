@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+WebTesting,Chrome 114.0.0.0,,,2023-06-28 08:49:40,2023-06-28 08:50:47,1m - 7.313s,PASSED
+,,,,,,,
+Test Cases/WebTesting,Chrome 114.0.0.0,,,2023-06-28 08:49:40,2023-06-28 08:50:47,1m - 6.740s,PASSED
+openBrowser(URL),Chrome 114.0.0.0,,,2023-06-28 08:49:41,2023-06-28 08:49:49,7.639s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-28 08:49:49,2023-06-28 08:49:49,0.224s,PASSED
+"verifyElementPresent(findTestObject(""WebTesting/Page_Homepage/logo_homepage""), 45)",Chrome 114.0.0.0,,,2023-06-28 08:49:49,2023-06-28 08:49:51,2.341s,PASSED
+"waitForElementClickable(findTestObject(""WebTesting/Page_Homepage/button_x""), 45, OPTIONAL)",Chrome 114.0.0.0,,,2023-06-28 08:49:51,2023-06-28 08:49:53,1.116s,PASSED
+"click(findTestObject(""WebTesting/Page_Homepage/button_x""), OPTIONAL)",Chrome 114.0.0.0,,,2023-06-28 08:49:53,2023-06-28 08:49:53,0.759s,PASSED
+"click(findTestObject(""WebTesting/Page_Homepage/div_Rumah Tangga""), STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-28 08:49:53,2023-06-28 08:49:54,0.738s,PASSED
+"verifyElementPresent(findTestObject(""WebTesting/Page_List Product/div_Rumah Tangga""), 45)",Chrome 114.0.0.0,,,2023-06-28 08:49:54,2023-06-28 08:50:00,6.098s,PASSED
+height = getPageHeight(),Chrome 114.0.0.0,,,2023-06-28 08:50:00,2023-06-28 08:50:00,0.114s,PASSED
+"isButtonExist = verifyElementPresent(findTestObject(""WebTesting/Page_List Product/button_Buy 1 Get 1""), 2, OPTIONAL)",Chrome 114.0.0.0,,,2023-06-28 08:50:00,2023-06-28 08:50:01,0.586s,PASSED
+while (isButtonExist == false),Chrome 114.0.0.0,,,2023-06-28 08:50:01,2023-06-28 08:50:01,0.001s,PASSED
+"click(findTestObject(""WebTesting/Page_List Product/button_Buy 1 Get 1""))",Chrome 114.0.0.0,,,2023-06-28 08:50:01,2023-06-28 08:50:02,0.945s,PASSED
+"scrollToPosition(0, 0)",Chrome 114.0.0.0,,,2023-06-28 08:50:02,2023-06-28 08:50:02,0.082s,PASSED
+"isFilterExist = verifyElementPresent(findTestObject(""WebTesting/Page_List Product/button_Paling Sesuai""), 2, OPTIONAL)",Chrome 114.0.0.0,,,2023-06-28 08:50:02,2023-06-28 08:50:04,1.874s,PASSED
+"click(findTestObject(""WebTesting/Page_List Product/button_Paling Sesuai""))",Chrome 114.0.0.0,,,2023-06-28 08:50:04,2023-06-28 08:50:05,0.963s,PASSED
+"click(findTestObject(""WebTesting/Page_List Product/li_Produk Terbaru""))",Chrome 114.0.0.0,,,2023-06-28 08:50:05,2023-06-28 08:50:06,1.038s,PASSED
+"verifyElementPresent(findTestObject(""WebTesting/Page_List Product/div_product""), 0)",Chrome 114.0.0.0,,,2023-06-28 08:50:06,2023-06-28 08:50:08,1.817s,PASSED
+"click(findTestObject(""WebTesting/Page_List Product/div_product""), STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-28 08:50:08,2023-06-28 08:50:13,5.311s,PASSED
+"verifyElementPresent(findTestObject(""WebTesting/Page_Detail Product/div_Product Title""), 45)",Chrome 114.0.0.0,,,2023-06-28 08:50:13,2023-06-28 08:50:15,2.405s,PASSED
+"click(findTestObject(""WebTesting/Page_Detail Product/button_Keranjang""), STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-28 08:50:15,2023-06-28 08:50:16,0.562s,PASSED
+"verifyElementPresent(findTestObject(""WebTesting/Page_Detail Product/p_Berhasil Ditambahkan ke Keranjang""), 45)",Chrome 114.0.0.0,,,2023-06-28 08:50:16,2023-06-28 08:50:18,1.879s,PASSED
+"click(findTestObject(""WebTesting/Page_Detail Product/button_Lihat Keranjang Saya""), STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-28 08:50:18,2023-06-28 08:50:27,8.866s,PASSED
+"verifyElementPresent(findTestObject(""WebTesting/Page_Cart/a_Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B""), 45)",Chrome 114.0.0.0,,,2023-06-28 08:50:27,2023-06-28 08:50:28,1.364s,PASSED
+"verifyElementPresent(findTestObject(""WebTesting/Page_Cart/div_Buy 1 Get 1""), 45)",Chrome 114.0.0.0,,,2023-06-28 08:50:28,2023-06-28 08:50:28,0.483s,PASSED
+"verifyElementPresent(findTestObject(""WebTesting/Page_Cart/td_Total belanja""), 45)",Chrome 114.0.0.0,,,2023-06-28 08:50:28,2023-06-28 08:50:29,0.472s,PASSED
+"verifyElementPresent(findTestObject(""WebTesting/Page_Cart/td_Total pesanan""), 45)",Chrome 114.0.0.0,,,2023-06-28 08:50:29,2023-06-28 08:50:29,0.454s,PASSED
+"click(findTestObject(""WebTesting/Page_Cart/button_Lanjutkan ke Pembayaran""), STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-28 08:50:29,2023-06-28 08:50:30,0.576s,PASSED
+"verifyElementPresent(findTestObject(""WebTesting/Page_login/div_MasukDaftar""), 45)",Chrome 114.0.0.0,,,2023-06-28 08:50:30,2023-06-28 08:50:37,7.391s,PASSED
+"verifyElementPresent(findTestObject(""WebTesting/Page_login/div_Masuk""), 45)",Chrome 114.0.0.0,,,2023-06-28 08:50:37,2023-06-28 08:50:38,0.468s,PASSED
+"verifyElementPresent(findTestObject(""WebTesting/Page_login/div_Daftar""), 45)",Chrome 114.0.0.0,,,2023-06-28 08:50:38,2023-06-28 08:50:39,0.797s,PASSED
+"setText(findTestObject(""WebTesting/Page_login/input_Daftar_email""), RandomEmail)",Chrome 114.0.0.0,,,2023-06-28 08:50:39,2023-06-28 08:50:40,1.080s,PASSED
+"setEncryptedText(findTestObject(""WebTesting/Page_login/input_Daftar_password""), RandomPassword)",Chrome 114.0.0.0,,,2023-06-28 08:50:40,2023-06-28 08:50:40,0.670s,PASSED
+"click(findTestObject(""WebTesting/Page_login/button_Masuk""), STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-28 08:50:40,2023-06-28 08:50:41,0.566s,PASSED
+"verifyElementPresent(findTestObject(""WebTesting/Page_login/div_Informasi tidak valid""), 45)",Chrome 114.0.0.0,,,2023-06-28 08:50:41,2023-06-28 08:50:44,3.017s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-06-28 08:50:44,2023-06-28 08:50:46,2.085s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-28 08:50:46,2023-06-28 08:50:47,0.836s,PASSED

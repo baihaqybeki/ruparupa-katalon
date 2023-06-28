@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="MobileTesting" time="263.532" tests="1" failures="0" errors="0">
+   <testsuite name="MobileTesting" tests="1" failures="0" errors="0" time="263.532" skipped="0" timestamp="2023-06-28 08:42:28" hostname="User - 172.22.144.1" id="Test Suites/MobileTesting">
+      <properties>
+         <property name="deviceName" value="realme RMX1971 (Android 11)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\Automation\\ruparupa-automation\\Reports\\20230628_084211\\MobileTesting\\20230628_084212"/>
+         <property name="logFiles" value="E:\\Automation\\ruparupa-automation\\Reports\\20230628_084211\\MobileTesting\\20230628_084212\\execution0.log, E:\\Automation\\ruparupa-automation\\Reports\\20230628_084211\\MobileTesting\\20230628_084212\\appium.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="User - 172.22.144.1"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="8.5.2.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.22.3"/>
+         <property name="deviceModel" value="RMX1971"/>
+         <property name="hostAddress" value="172.22.144.1"/>
+         <property name="deviceManufacturer" value="realme"/>
+         <property name="deviceId" value="e381d3a4"/>
+         <property name="deviceName" value="realme RMX1971 (Android 11)"/>
+         <property name="deviceOSVersion" value="11"/>
+      </properties>
+      <testcase name="Test Cases/MobileTesting" time="262.944" classname="Test Cases/MobileTesting" status="PASSED">
+         <system-out><![CDATA[2023-06-28 08:42:28 - [TEST_CASE][PASSED] - Test Cases/MobileTesting: Test Cases/MobileTesting
+
+2023-06-28 08:42:30 - [TEST_STEP][PASSED] - startExistingApplication(APPS, STOP_ON_FAILURE): Starting app with application ID: 'com.mobileappruparupa'
+
+2023-06-28 08:42:31 - [MESSAGE][INFO] - User set preference: ['udid', 'e381d3a4']
+
+2023-06-28 08:42:31 - [MESSAGE][INFO] - User set preference: ['platformName', 'Android']
+
+2023-06-28 08:42:31 - [MESSAGE][INFO] - User set preference: ['noReset', 'true']
+
+2023-06-28 08:42:31 - [MESSAGE][INFO] - User set preference: ['deviceId', 'e381d3a4']
+
+2023-06-28 08:42:31 - [MESSAGE][INFO] - User set preference: ['platformVersion', '11']
+
+2023-06-28 08:42:32 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+2023-06-28 08:42:34 - [MESSAGE][INFO] - Appium server started on port 58,133
+
+2023-06-28 08:42:50 - [MESSAGE][PASSED] - Starting app with application ID: 'com.mobileappruparupa'
+
+2023-06-28 08:42:50 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/Splashscreen/android.widget.ImageView"), 15, OPTIONAL): Element 'Object Repository/MobileTesting/Splashscreen/android.widget.ImageView' is exist
+
+2023-06-28 08:42:53 - [MESSAGE][PASSED] - Element 'Object Repository/MobileTesting/Splashscreen/android.widget.ImageView' is exist
+
+2023-06-28 08:42:53 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/Splashscreen/android.widget.TextView - Lewati (Splashscreen)"), 15, OPTIONAL): Object Object Repository/MobileTesting/Splashscreen/android.widget.TextView - Lewati (Splashscreen) not found
+
+2023-06-28 08:43:08 - [MESSAGE][WARNING] - Object Object Repository/MobileTesting/Splashscreen/android.widget.TextView - Lewati (Splashscreen) not found
+
+2023-06-28 08:43:08 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/Official Pertner/android.widget.TextView - Official Partner"), 15, OPTIONAL): Element 'Object Repository/MobileTesting/Official Pertner/android.widget.TextView - Official Partner' not found
+
+2023-06-28 08:43:24 - [MESSAGE][WARNING] - Element 'Object Repository/MobileTesting/Official Pertner/android.widget.TextView - Official Partner' not found
+
+2023-06-28 08:43:24 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/Official Pertner/android.widget.TextView - Lewati (Official Partner)"), 15, OPTIONAL): Object Object Repository/MobileTesting/Official Pertner/android.widget.TextView - Lewati (Official Partner) not found
+
+2023-06-28 08:43:40 - [MESSAGE][WARNING] - Object Object Repository/MobileTesting/Official Pertner/android.widget.TextView - Lewati (Official Partner) not found
+
+2023-06-28 08:43:40 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/Home/android.widget.TextView - Tutup (Homepage)"), 15, OPTIONAL): Object Object Repository/MobileTesting/Home/android.widget.TextView - Tutup (Homepage) not found
+
+2023-06-28 08:43:55 - [MESSAGE][WARNING] - Object Object Repository/MobileTesting/Home/android.widget.TextView - Tutup (Homepage) not found
+
+2023-06-28 08:43:55 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/Home/android.widget.TextView - Rumah Tangga Text (Homepage)"), 15, STOP_ON_FAILURE): Element 'Object Repository/MobileTesting/Home/android.widget.TextView - Rumah Tangga Text (Homepage)' is exist
+
+2023-06-28 08:43:57 - [MESSAGE][PASSED] - Element 'Object Repository/MobileTesting/Home/android.widget.TextView - Rumah Tangga Text (Homepage)' is exist
+
+2023-06-28 08:43:57 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/Home/android.widget.TextView - Rumah Tangga Text (Homepage)"), 15, STOP_ON_FAILURE): Tapped on element 'Object Repository/MobileTesting/Home/android.widget.TextView - Rumah Tangga Text (Homepage)'
+
+2023-06-28 08:43:57 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/Home/android.widget.TextView - Rumah Tangga Text (Homepage)'
+
+2023-06-28 08:43:57 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Lihat Semua Rumah Tangga"), 15, STOP_ON_FAILURE): Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Lihat Semua Rumah Tangga'
+
+2023-06-28 08:43:58 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Lihat Semua Rumah Tangga'
+
+2023-06-28 08:43:58 - [TEST_STEP][PASSED] - scrollToText("Filter", STOP_ON_FAILURE): Scrolling to text 'Filter' successfully
+
+2023-06-28 08:44:08 - [MESSAGE][PASSED] - Scrolling to text 'Filter' successfully
+
+2023-06-28 08:44:08 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Filter (Rumah Tangga)"), 0): Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Filter (Rumah Tangga)'
+
+2023-06-28 08:44:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:44:09 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Filter (Rumah Tangga)'
+
+2023-06-28 08:44:09 - [TEST_STEP][PASSED] - scrollToText("Buy 1 Get 1", STOP_ON_FAILURE): Scrolling to text 'Buy 1 Get 1' successfully
+
+2023-06-28 08:44:18 - [MESSAGE][PASSED] - Scrolling to text 'Buy 1 Get 1' successfully
+
+2023-06-28 08:44:18 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2023-06-28 08:44:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-06-28 08:44:20 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Buy 1 Get 1 (Filter)"), 0): Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Buy 1 Get 1 (Filter)'
+
+2023-06-28 08:44:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:44:21 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Buy 1 Get 1 (Filter)'
+
+2023-06-28 08:44:21 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2023-06-28 08:44:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-06-28 08:44:23 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Terapkan (Filter)"), 0): Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Terapkan (Filter)'
+
+2023-06-28 08:44:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:44:24 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Terapkan (Filter)'
+
+2023-06-28 08:44:24 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Terapkan (Filter)"), 0): Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Terapkan (Filter)'
+
+2023-06-28 08:44:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:44:24 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Terapkan (Filter)'
+
+2023-06-28 08:44:24 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Paling Sesuai (Rumah Tangga)"), 0): Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Paling Sesuai (Rumah Tangga)'
+
+2023-06-28 08:44:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:44:26 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Paling Sesuai (Rumah Tangga)'
+
+2023-06-28 08:44:26 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Product Populer Radio Button (Urutkan)"), 0): Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Product Populer Radio Button (Urutkan)'
+
+2023-06-28 08:44:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:44:28 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Product Populer Radio Button (Urutkan)'
+
+2023-06-28 08:44:28 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Terapkan (Filter)"), 0): Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Terapkan (Filter)'
+
+2023-06-28 08:44:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:44:29 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Terapkan (Filter)'
+
+2023-06-28 08:44:29 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Product (Rumah Tangga)"), 0): Element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Product (Rumah Tangga)' is exist
+
+2023-06-28 08:44:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:44:30 - [MESSAGE][PASSED] - Element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Product (Rumah Tangga)' is exist
+
+2023-06-28 08:44:30 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2023-06-28 08:44:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-06-28 08:44:32 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Product (Rumah Tangga)"), 0): Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Product (Rumah Tangga)'
+
+2023-06-28 08:44:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:44:33 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/PLP - Rumah Tangga/android.widget.TextView - Product (Rumah Tangga)'
+
+2023-06-28 08:44:33 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2023-06-28 08:44:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-06-28 08:44:35 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/PDP/android.widget.TextView - Product Title (PDP)"), 0): Element 'Object Repository/MobileTesting/PDP/android.widget.TextView - Product Title (PDP)' is exist
+
+2023-06-28 08:44:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:45:06 - [MESSAGE][PASSED] - Element 'Object Repository/MobileTesting/PDP/android.widget.TextView - Product Title (PDP)' is exist
+
+2023-06-28 08:45:06 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2023-06-28 08:45:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-06-28 08:45:08 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/PDP/android.widget.TextView - Keranjang (PDP)"), 0): Tapped on element 'Object Repository/MobileTesting/PDP/android.widget.TextView - Keranjang (PDP)'
+
+2023-06-28 08:45:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:00 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/PDP/android.widget.TextView - Keranjang (PDP)'
+
+2023-06-28 08:46:00 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/PDP/android.widget.TextView - Keranjang Confirm (PDP)"), 0): Element 'Object Repository/MobileTesting/PDP/android.widget.TextView - Keranjang Confirm (PDP)' is exist
+
+2023-06-28 08:46:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:01 - [MESSAGE][PASSED] - Element 'Object Repository/MobileTesting/PDP/android.widget.TextView - Keranjang Confirm (PDP)' is exist
+
+2023-06-28 08:46:01 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/PDP/android.widget.TextView - Keranjang Confirm (PDP)"), 0): Tapped on element 'Object Repository/MobileTesting/PDP/android.widget.TextView - Keranjang Confirm (PDP)'
+
+2023-06-28 08:46:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:01 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/PDP/android.widget.TextView - Keranjang Confirm (PDP)'
+
+2023-06-28 08:46:01 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/PDP/android.widget.TextView - Lihat Keranjang Saya (PDP)"), 0): Element 'Object Repository/MobileTesting/PDP/android.widget.TextView - Lihat Keranjang Saya (PDP)' is exist
+
+2023-06-28 08:46:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:04 - [MESSAGE][PASSED] - Element 'Object Repository/MobileTesting/PDP/android.widget.TextView - Lihat Keranjang Saya (PDP)' is exist
+
+2023-06-28 08:46:04 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/PDP/android.widget.TextView - Lihat Keranjang Saya (PDP)"), 0): Tapped on element 'Object Repository/MobileTesting/PDP/android.widget.TextView - Lihat Keranjang Saya (PDP)'
+
+2023-06-28 08:46:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:05 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/PDP/android.widget.TextView - Lihat Keranjang Saya (PDP)'
+
+2023-06-28 08:46:05 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/Cart/android.widget.TextView - Keranjang Belanja Title (Cart)"), 0): Element 'Object Repository/MobileTesting/Cart/android.widget.TextView - Keranjang Belanja Title (Cart)' is exist
+
+2023-06-28 08:46:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:08 - [MESSAGE][PASSED] - Element 'Object Repository/MobileTesting/Cart/android.widget.TextView - Keranjang Belanja Title (Cart)' is exist
+
+2023-06-28 08:46:08 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/Cart/android.widget.TextView - Product Title (Cart)"), 0, OPTIONAL): Element 'Object Repository/MobileTesting/Cart/android.widget.TextView - Product Title (Cart)' is exist
+
+2023-06-28 08:46:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:08 - [MESSAGE][PASSED] - Element 'Object Repository/MobileTesting/Cart/android.widget.TextView - Product Title (Cart)' is exist
+
+2023-06-28 08:46:08 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/Cart/android.widget.TextView - Price (Cart)"), 0, OPTIONAL): Element 'Object Repository/MobileTesting/Cart/android.widget.TextView - Price (Cart)' not found
+
+2023-06-28 08:46:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:39 - [MESSAGE][WARNING] - Element 'Object Repository/MobileTesting/Cart/android.widget.TextView - Price (Cart)' not found
+
+2023-06-28 08:46:39 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/Cart/android.widget.TextView - Buy 1 Get 1 (Cart)"), 0): Element 'Object Repository/MobileTesting/Cart/android.widget.TextView - Buy 1 Get 1 (Cart)' is exist
+
+2023-06-28 08:46:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:39 - [MESSAGE][PASSED] - Element 'Object Repository/MobileTesting/Cart/android.widget.TextView - Buy 1 Get 1 (Cart)' is exist
+
+2023-06-28 08:46:39 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/Cart/android.widget.TextView - Lanjut ke Pembayaran (Cart)"), 0): Tapped on element 'Object Repository/MobileTesting/Cart/android.widget.TextView - Lanjut ke Pembayaran (Cart)'
+
+2023-06-28 08:46:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:40 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/Cart/android.widget.TextView - Lanjut ke Pembayaran (Cart)'
+
+2023-06-28 08:46:40 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/Login/android.widget.TextView - Login (Login)"), 0): Element 'Object Repository/MobileTesting/Login/android.widget.TextView - Login (Login)' is exist
+
+2023-06-28 08:46:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:43 - [MESSAGE][PASSED] - Element 'Object Repository/MobileTesting/Login/android.widget.TextView - Login (Login)' is exist
+
+2023-06-28 08:46:43 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/Login/android.widget.TextView - Daftar (Login)"), 0): Element 'Object Repository/MobileTesting/Login/android.widget.TextView - Daftar (Login)' is exist
+
+2023-06-28 08:46:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:44 - [MESSAGE][PASSED] - Element 'Object Repository/MobileTesting/Login/android.widget.TextView - Daftar (Login)' is exist
+
+2023-06-28 08:46:44 - [TEST_STEP][PASSED] - setText(findTestObject("MobileTesting/Login/android.widget.EditText - Email atau No handphone (Login)"), RandomEmail, 0): Text 'randomemail@mail.com' has been set to element 'Object Repository/MobileTesting/Login/android.widget.EditText - Email atau No handphone (Login)'
+
+2023-06-28 08:46:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:45 - [MESSAGE][PASSED] - Text 'randomemail@mail.com' has been set to element 'Object Repository/MobileTesting/Login/android.widget.EditText - Email atau No handphone (Login)'
+
+2023-06-28 08:46:45 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("MobileTesting/Login/android.widget.EditText - Kata sandi (Login)"), RandomPassword, 0): Encrypted text 'kGdFh9BgbGTvDI2ClrS4dA==' has been set to element 'Object Repository/MobileTesting/Login/android.widget.EditText - Kata sandi (Login)'
+
+2023-06-28 08:46:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:46 - [MESSAGE][PASSED] - Encrypted text 'kGdFh9BgbGTvDI2ClrS4dA==' has been set to element 'Object Repository/MobileTesting/Login/android.widget.EditText - Kata sandi (Login)'
+
+2023-06-28 08:46:46 - [TEST_STEP][PASSED] - tap(findTestObject("MobileTesting/Login/android.widget.TextView - Masuk (Login)"), 0, STOP_ON_FAILURE): Tapped on element 'Object Repository/MobileTesting/Login/android.widget.TextView - Masuk (Login)'
+
+2023-06-28 08:46:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:49 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/MobileTesting/Login/android.widget.TextView - Masuk (Login)'
+
+2023-06-28 08:46:49 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("MobileTesting/Login/android.widget.TextView - Informasi tidak valid (Login)"), 0): Element 'Object Repository/MobileTesting/Login/android.widget.TextView - Informasi tidak valid (Login)' is exist
+
+2023-06-28 08:46:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:46:49 - [MESSAGE][PASSED] - Element 'Object Repository/MobileTesting/Login/android.widget.TextView - Informasi tidak valid (Login)' is exist
+
+2023-06-28 08:46:49 - [TEST_STEP][PASSED] - driver = getDriver(): null
+
+2023-06-28 08:46:49 - [TEST_STEP][PASSED] - driver.terminateApp("com.mobileappruparupa"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-28 08:42:28 - [TEST_SUITE][PASSED] - MobileTesting: Test Cases/MobileTesting]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

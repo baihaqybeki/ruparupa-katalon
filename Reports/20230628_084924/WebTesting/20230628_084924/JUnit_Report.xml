@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="WebTesting" time="67.313" tests="1" failures="0" errors="0">
+   <testsuite name="WebTesting" tests="1" failures="0" errors="0" time="67.313" skipped="0" timestamp="2023-06-28 08:49:40" hostname="User - 172.22.144.1" id="Test Suites/WebTesting">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\Automation\\ruparupa-automation\\Reports\\20230628_084924\\WebTesting\\20230628_084924"/>
+         <property name="logFiles" value="E:\\Automation\\ruparupa-automation\\Reports\\20230628_084924\\WebTesting\\20230628_084924\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="User - 172.22.144.1"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.2.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="172.22.144.1"/>
+         <property name="sessionId" value="5c077b985d46c5f0d32ad0508b2d26af"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WebTesting" time="66.74" classname="Test Cases/WebTesting" status="PASSED">
+         <system-out><![CDATA[2023-06-28 08:49:40 - [TEST_CASE][PASSED] - Test Cases/WebTesting: Test Cases/WebTesting
+
+2023-06-28 08:49:41 - [TEST_STEP][PASSED] - openBrowser(URL): Browser is opened with url: 'www.ruparupa.com'
+
+2023-06-28 08:49:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-28 08:49:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-28 08:49:49 - [MESSAGE][PASSED] - Browser is opened with url: 'www.ruparupa.com'
+
+2023-06-28 08:49:49 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-28 08:49:49 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-28 08:49:49 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("WebTesting/Page_Homepage/logo_homepage"), 45): Object 'Object Repository/WebTesting/Page_Homepage/logo_homepage' is present
+
+2023-06-28 08:49:51 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_Homepage/logo_homepage' is present
+
+2023-06-28 08:49:51 - [TEST_STEP][PASSED] - waitForElementClickable(findTestObject("WebTesting/Page_Homepage/button_x"), 45, OPTIONAL): Object 'Object Repository/WebTesting/Page_Homepage/button_x' is clickable
+
+2023-06-28 08:49:53 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_Homepage/button_x' is clickable
+
+2023-06-28 08:49:53 - [TEST_STEP][PASSED] - click(findTestObject("WebTesting/Page_Homepage/button_x"), OPTIONAL): Object: 'Object Repository/WebTesting/Page_Homepage/button_x' is clicked on
+
+2023-06-28 08:49:53 - [MESSAGE][PASSED] - Object: 'Object Repository/WebTesting/Page_Homepage/button_x' is clicked on
+
+2023-06-28 08:49:53 - [TEST_STEP][PASSED] - click(findTestObject("WebTesting/Page_Homepage/div_Rumah Tangga"), STOP_ON_FAILURE): Object: 'Object Repository/WebTesting/Page_Homepage/div_Rumah Tangga' is clicked on
+
+2023-06-28 08:49:54 - [MESSAGE][PASSED] - Object: 'Object Repository/WebTesting/Page_Homepage/div_Rumah Tangga' is clicked on
+
+2023-06-28 08:49:54 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("WebTesting/Page_List Product/div_Rumah Tangga"), 45): Object 'Object Repository/WebTesting/Page_List Product/div_Rumah Tangga' is present
+
+2023-06-28 08:50:00 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_List Product/div_Rumah Tangga' is present
+
+2023-06-28 08:50:00 - [TEST_STEP][PASSED] - height = getPageHeight(): Current page's height is 7946
+
+2023-06-28 08:50:00 - [MESSAGE][PASSED] - Current page's height is 7946
+
+2023-06-28 08:50:00 - [TEST_STEP][PASSED] - isButtonExist = verifyElementPresent(findTestObject("WebTesting/Page_List Product/button_Buy 1 Get 1"), 2, OPTIONAL): Object 'Object Repository/WebTesting/Page_List Product/button_Buy 1 Get 1' is present
+
+2023-06-28 08:50:01 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_List Product/button_Buy 1 Get 1' is present
+
+2023-06-28 08:50:01 - [TEST_STEP][PASSED] - while (isButtonExist == false): null
+
+2023-06-28 08:50:01 - [TEST_STEP][PASSED] - click(findTestObject("WebTesting/Page_List Product/button_Buy 1 Get 1")): Object: 'Object Repository/WebTesting/Page_List Product/button_Buy 1 Get 1' is clicked on
+
+2023-06-28 08:50:02 - [MESSAGE][PASSED] - Object: 'Object Repository/WebTesting/Page_List Product/button_Buy 1 Get 1' is clicked on
+
+2023-06-28 08:50:02 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2023-06-28 08:50:02 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2023-06-28 08:50:02 - [TEST_STEP][PASSED] - isFilterExist = verifyElementPresent(findTestObject("WebTesting/Page_List Product/button_Paling Sesuai"), 2, OPTIONAL): Object 'Object Repository/WebTesting/Page_List Product/button_Paling Sesuai' is present
+
+2023-06-28 08:50:04 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_List Product/button_Paling Sesuai' is present
+
+2023-06-28 08:50:04 - [TEST_STEP][PASSED] - click(findTestObject("WebTesting/Page_List Product/button_Paling Sesuai")): Object: 'Object Repository/WebTesting/Page_List Product/button_Paling Sesuai' is clicked on
+
+2023-06-28 08:50:05 - [MESSAGE][PASSED] - Object: 'Object Repository/WebTesting/Page_List Product/button_Paling Sesuai' is clicked on
+
+2023-06-28 08:50:05 - [TEST_STEP][PASSED] - click(findTestObject("WebTesting/Page_List Product/li_Produk Terbaru")): Object: 'Object Repository/WebTesting/Page_List Product/li_Produk Terbaru' is clicked on
+
+2023-06-28 08:50:06 - [MESSAGE][PASSED] - Object: 'Object Repository/WebTesting/Page_List Product/li_Produk Terbaru' is clicked on
+
+2023-06-28 08:50:06 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("WebTesting/Page_List Product/div_product"), 0): Object 'Object Repository/WebTesting/Page_List Product/div_product' is present
+
+2023-06-28 08:50:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-28 08:50:08 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_List Product/div_product' is present
+
+2023-06-28 08:50:08 - [TEST_STEP][PASSED] - click(findTestObject("WebTesting/Page_List Product/div_product"), STOP_ON_FAILURE): Object: 'Object Repository/WebTesting/Page_List Product/div_product' is clicked on
+
+2023-06-28 08:50:13 - [MESSAGE][PASSED] - Object: 'Object Repository/WebTesting/Page_List Product/div_product' is clicked on
+
+2023-06-28 08:50:13 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("WebTesting/Page_Detail Product/div_Product Title"), 45): Object 'Object Repository/WebTesting/Page_Detail Product/div_Product Title' is present
+
+2023-06-28 08:50:15 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_Detail Product/div_Product Title' is present
+
+2023-06-28 08:50:15 - [TEST_STEP][PASSED] - click(findTestObject("WebTesting/Page_Detail Product/button_Keranjang"), STOP_ON_FAILURE): Object: 'Object Repository/WebTesting/Page_Detail Product/button_Keranjang' is clicked on
+
+2023-06-28 08:50:16 - [MESSAGE][PASSED] - Object: 'Object Repository/WebTesting/Page_Detail Product/button_Keranjang' is clicked on
+
+2023-06-28 08:50:16 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("WebTesting/Page_Detail Product/p_Berhasil Ditambahkan ke Keranjang"), 45): Object 'Object Repository/WebTesting/Page_Detail Product/p_Berhasil Ditambahkan ke Keranjang' is present
+
+2023-06-28 08:50:18 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_Detail Product/p_Berhasil Ditambahkan ke Keranjang' is present
+
+2023-06-28 08:50:18 - [TEST_STEP][PASSED] - click(findTestObject("WebTesting/Page_Detail Product/button_Lihat Keranjang Saya"), STOP_ON_FAILURE): Object: 'Object Repository/WebTesting/Page_Detail Product/button_Lihat Keranjang Saya' is clicked on
+
+2023-06-28 08:50:27 - [MESSAGE][PASSED] - Object: 'Object Repository/WebTesting/Page_Detail Product/button_Lihat Keranjang Saya' is clicked on
+
+2023-06-28 08:50:27 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("WebTesting/Page_Cart/a_Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B"), 45): Object 'Object Repository/WebTesting/Page_Cart/a_Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B' is present
+
+2023-06-28 08:50:28 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_Cart/a_Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B' is present
+
+2023-06-28 08:50:28 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("WebTesting/Page_Cart/div_Buy 1 Get 1"), 45): Object 'Object Repository/WebTesting/Page_Cart/div_Buy 1 Get 1' is present
+
+2023-06-28 08:50:28 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_Cart/div_Buy 1 Get 1' is present
+
+2023-06-28 08:50:28 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("WebTesting/Page_Cart/td_Total belanja"), 45): Object 'Object Repository/WebTesting/Page_Cart/td_Total belanja' is present
+
+2023-06-28 08:50:29 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_Cart/td_Total belanja' is present
+
+2023-06-28 08:50:29 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("WebTesting/Page_Cart/td_Total pesanan"), 45): Object 'Object Repository/WebTesting/Page_Cart/td_Total pesanan' is present
+
+2023-06-28 08:50:29 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_Cart/td_Total pesanan' is present
+
+2023-06-28 08:50:29 - [TEST_STEP][PASSED] - click(findTestObject("WebTesting/Page_Cart/button_Lanjutkan ke Pembayaran"), STOP_ON_FAILURE): Object: 'Object Repository/WebTesting/Page_Cart/button_Lanjutkan ke Pembayaran' is clicked on
+
+2023-06-28 08:50:30 - [MESSAGE][PASSED] - Object: 'Object Repository/WebTesting/Page_Cart/button_Lanjutkan ke Pembayaran' is clicked on
+
+2023-06-28 08:50:30 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("WebTesting/Page_login/div_MasukDaftar"), 45): Object 'Object Repository/WebTesting/Page_login/div_MasukDaftar' is present
+
+2023-06-28 08:50:37 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_login/div_MasukDaftar' is present
+
+2023-06-28 08:50:37 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("WebTesting/Page_login/div_Masuk"), 45): Object 'Object Repository/WebTesting/Page_login/div_Masuk' is present
+
+2023-06-28 08:50:38 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_login/div_Masuk' is present
+
+2023-06-28 08:50:38 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("WebTesting/Page_login/div_Daftar"), 45): Object 'Object Repository/WebTesting/Page_login/div_Daftar' is present
+
+2023-06-28 08:50:39 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_login/div_Daftar' is present
+
+2023-06-28 08:50:39 - [TEST_STEP][PASSED] - setText(findTestObject("WebTesting/Page_login/input_Daftar_email"), RandomEmail): Text 'randomemail@mail.com' is set on object 'Object Repository/WebTesting/Page_login/input_Daftar_email'
+
+2023-06-28 08:50:40 - [MESSAGE][PASSED] - Text 'randomemail@mail.com' is set on object 'Object Repository/WebTesting/Page_login/input_Daftar_email'
+
+2023-06-28 08:50:40 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("WebTesting/Page_login/input_Daftar_password"), RandomPassword): Text ****** has been set on object 'Object Repository/WebTesting/Page_login/input_Daftar_password'
+
+2023-06-28 08:50:40 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/WebTesting/Page_login/input_Daftar_password'
+
+2023-06-28 08:50:40 - [TEST_STEP][PASSED] - click(findTestObject("WebTesting/Page_login/button_Masuk"), STOP_ON_FAILURE): Object: 'Object Repository/WebTesting/Page_login/button_Masuk' is clicked on
+
+2023-06-28 08:50:41 - [MESSAGE][PASSED] - Object: 'Object Repository/WebTesting/Page_login/button_Masuk' is clicked on
+
+2023-06-28 08:50:41 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("WebTesting/Page_login/div_Informasi tidak valid"), 45): Object 'Object Repository/WebTesting/Page_login/div_Informasi tidak valid' is present
+
+2023-06-28 08:50:44 - [MESSAGE][PASSED] - Object 'Object Repository/WebTesting/Page_login/div_Informasi tidak valid' is present
+
+2023-06-28 08:50:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-06-28 08:50:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-06-28 08:50:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-28 08:50:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-28 08:49:40 - [TEST_SUITE][PASSED] - WebTesting: Test Cases/WebTesting]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
