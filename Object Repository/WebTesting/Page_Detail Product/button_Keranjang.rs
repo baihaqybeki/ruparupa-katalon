@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Keranjang</name>
+   <tag></tag>
+   <elementGuidId>b52c3eaa-a22f-4690-924e-e0fdd0533394</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = '+ Keranjang' or . = '+ Keranjang')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c5ea7802-f11e-4fc7-9f77-edaf3b648044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> button  button--full button__primary  button__primary-ruparupa</value>
+      <webElementGuid>6542ef9a-a44f-41c9-9afb-166581a3e3bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>86e205f2-9420-4386-8066-1b203494b407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Keranjang</value>
+      <webElementGuid>3c5b5afb-24fa-4cf7-8d5d-8428e415dbab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;container container__desktop container-pdp__desktop&quot;]/div[@class=&quot;main-pdp_product-detail-container-page__2nWLM&quot;]/div[@class=&quot;main-pdp_product-right-container__1_C_R&quot;]/div[@class=&quot;main-pdp_product-right-container__sticky-area__3IfFV flex flex-col&quot;]/section[@class=&quot;main-pdp_cart-action-and-wishlist__container__36IFW&quot;]/div[@class=&quot;main-pdp_action__1pXtk&quot;]/div[@class=&quot;flex gap-m&quot;]/button[@class=&quot;button  button--full button__primary  button__primary-ruparupa&quot;]</value>
+      <webElementGuid>6c7a8107-884d-40f1-a981-99842b40ec2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>49810428-5605-40d9-bf2b-46abe7105152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[2]/div/section/div[3]/div/button[2]</value>
+      <webElementGuid>14f0a01e-a93a-498f-b570-a5e7db496f7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Sekarang'])[1]/following::button[1]</value>
+      <webElementGuid>80744905-f725-4cf2-9067-88c695c21d8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bunga Artifisial'])[1]/following::button[4]</value>
+      <webElementGuid>7327af9b-dd9a-492a-9d84-79ae535732c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist'])[1]/preceding::button[1]</value>
+      <webElementGuid>4f5cfaf8-93f6-471e-9f6a-92f62a9c7e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share'])[1]/preceding::button[1]</value>
+      <webElementGuid>5175c50b-f505-47f0-a78e-0b31eee5e273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+ Keranjang']/parent::*</value>
+      <webElementGuid>4acadcaf-8ba6-4e18-a380-2accadb76648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button[2]</value>
+      <webElementGuid>e5786697-da0f-47d7-b95e-ee8a9ae3a8e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '+ Keranjang' or . = '+ Keranjang')]</value>
+      <webElementGuid>87c5410f-5a5d-43c6-8090-23f89987e9c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

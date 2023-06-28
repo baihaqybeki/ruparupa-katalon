@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MasukDaftar</name>
+   <tag></tag>
+   <elementGuidId>81d60528-3962-4b68-a0f9-4ba404b3bd45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-12.title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Masuk/Daftar' or . = 'Masuk/Daftar')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37b90f73-efa4-4af6-a30d-fc73fbb06e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-12 title</value>
+      <webElementGuid>a131e0ab-3a30-414a-8efe-c199b0e959cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk/Daftar</value>
+      <webElementGuid>b5574655-4422-41a7-94f0-97c71696234b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;header-detail header-detail__container header-detail__auth&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;sign-up&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 title&quot;]</value>
+      <webElementGuid>5ef81a4b-972b-422d-913d-63388360ffe7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[3]/div/div</value>
+      <webElementGuid>347a8579-bfbe-49ce-a528-52f8e4970d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Deals'])[1]/following::div[9]</value>
+      <webElementGuid>475013a3-05bd-4e99-a883-4a238629c2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mainan &amp; Bayi'])[1]/following::div[12]</value>
+      <webElementGuid>b6756922-1b8b-418c-b15f-ac12dc91c304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/preceding::div[1]</value>
+      <webElementGuid>ad6cbe9e-39dc-4229-b617-769abdbb0d77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[2]/preceding::div[3]</value>
+      <webElementGuid>d5eeeaab-52ad-4532-81f4-e1799dea0343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk/Daftar']/parent::*</value>
+      <webElementGuid>8dcbc0d1-2e10-4e24-a387-aebf33974377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[3]/div/div</value>
+      <webElementGuid>26889c82-2b53-4b2b-80ce-399f22cdc567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Masuk/Daftar' or . = 'Masuk/Daftar')]</value>
+      <webElementGuid>9fd1e9c8-4686-45d2-b2af-125f0bf40aff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Produk Terbaru</name>
+   <tag></tag>
+   <elementGuidId>faecd17e-84df-43fe-ac3a-d8ac9e250c63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[(text() = 'Produk Terbaru' or . = 'Produk Terbaru')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>03585391-838c-44b9-a067-f864a5d7d951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-dropdown</value>
+      <webElementGuid>7f8dece0-a0ff-4e77-871a-a4b9540c09ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Produk Terbaru</value>
+      <webElementGuid>556ca417-1a02-49df-8cb9-0b34ad29640a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;container container__desktop&quot;]/div[1]/section[3]/div[@class=&quot;row flex&quot;]/div[@class=&quot;col-xs-10 padding-left-xs padding-top-m&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-2&quot;]/div[@class=&quot;dropdown&quot;]/div[1]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;list-dropdown&quot;]</value>
+      <webElementGuid>9a027a68-f634-40b6-ab47-b265efd2679d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/section[3]/div/div[2]/div/div[2]/div/div/ul/li[2]</value>
+      <webElementGuid>d4b416b9-f781-4a27-a169-e6dd23ae000c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paling Sesuai'])[2]/following::li[1]</value>
+      <webElementGuid>410e545d-6d51-49cc-b7c1-209ced234e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paling Sesuai'])[1]/following::li[2]</value>
+      <webElementGuid>d3efb090-8d7e-434b-8b7f-84d7b71c8486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk Populer'])[1]/preceding::li[1]</value>
+      <webElementGuid>62be5273-648c-4f65-af58-c6f85aa11663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>d2d6fef2-6564-447e-8b8c-92015545ca41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Produk Terbaru' or . = 'Produk Terbaru')]</value>
+      <webElementGuid>e2aa3e3e-772d-49d9-bdf4-61cf01cd05da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

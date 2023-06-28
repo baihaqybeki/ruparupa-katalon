@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Total pesanan</name>
+   <tag></tag>
+   <elementGuidId>f3842549-2558-4376-bb06-cd2f624a5781</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Total pesanan ' or . = 'Total pesanan ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6fdea8d1-5d45-424b-9fe3-9f184ca3760a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-size-l</value>
+      <webElementGuid>b35d8b2e-50b4-41ae-8d18-3dc11788df46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total pesanan </value>
+      <webElementGuid>a216ab2e-ad0b-4adb-933b-f25cfec28110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/section[@class=&quot;container margin-top-m false&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;col-xs-4&quot;]/div[@class=&quot;container-card&quot;]/table[@class=&quot;subtotal-minicart&quot;]/tbody[1]/tr[2]/td[@class=&quot;font-size-l&quot;]</value>
+      <webElementGuid>9ae264cc-01b8-47d5-8e99-04da6e519285</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div/div[2]/div/table/tbody/tr[2]/td</value>
+      <webElementGuid>aa42ca44-d353-4907-99d8-224ec212d24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total belanja'])[2]/following::td[2]</value>
+      <webElementGuid>da00d315-89ae-42c8-b474-6bdf8a18cc9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjutkan ke Pembayaran'])[1]/preceding::td[2]</value>
+      <webElementGuid>ff5de38d-ec31-4040-9baf-eeaf0cbb1669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk Yang Mungkin Anda Suka'])[1]/preceding::td[2]</value>
+      <webElementGuid>6ea09c27-89e8-4a4b-833e-7063fac8cda5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[2]/div/table/tbody/tr[2]/td</value>
+      <webElementGuid>17d19ec4-8dd7-4e29-accb-147847889404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Total pesanan ' or . = 'Total pesanan ')]</value>
+      <webElementGuid>f3008bd5-2069-47b5-9efc-dedbc728c64b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

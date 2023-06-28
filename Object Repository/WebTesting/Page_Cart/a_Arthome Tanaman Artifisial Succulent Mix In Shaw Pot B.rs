@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B</name>
+   <tag></tag>
+   <elementGuidId>38aba3e1-b2e7-4f01-a545-855eb5aef29e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.font-size-m.no-margin-top.margin-bottom-xxs.bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>46702e94-f496-4ce5-ba9b-821debfe42a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-size-m no-margin-top margin-bottom-xxs bold</value>
+      <webElementGuid>afecec62-8a7b-4a06-b119-91a1a68e0c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/p/arthome-tanaman-artifisial-succulent-mix-in-shaw-pot-b.html?itm_source=cart&amp;itm_campaign=hanging-cart&amp;itm_term=10505348</value>
+      <webElementGuid>ab503bcd-8d59-4f38-b9dd-9efcd6a66e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B</value>
+      <webElementGuid>1d67f36c-2f71-427f-a017-e80c297c749d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/section[@class=&quot;container margin-top-m false&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;col-xs-8&quot;]/div[1]/div[@class=&quot;margin-bottom-s&quot;]/div[@class=&quot;container-card no-padding&quot;]/div[@class=&quot;padding-m item-minicart cart-item-container&quot;]/div[@class=&quot;cart-item&quot;]/div[@class=&quot;cart-item-content&quot;]/div[@class=&quot;cart-item__details padding-left-m margin-right-s&quot;]/a[@class=&quot;font-size-m no-margin-top margin-bottom-xxs bold&quot;]</value>
+      <webElementGuid>570234c9-0f5b-43cf-8480-e9f33271e81f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div/div/div/div[2]/div/div[2]/div/div/div/a</value>
+      <webElementGuid>ee172653-fa31-43e6-9d5d-7e0046f78c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B')])[2]</value>
+      <webElementGuid>e3ad8d4f-6a14-4112-a8a4-f138a7245614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Terdekat'])[1]/following::a[2]</value>
+      <webElementGuid>bf136861-d611-478e-8733-6c9fc4e03a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp249.900'])[3]/preceding::a[1]</value>
+      <webElementGuid>3a7e478e-27e0-4563-b31e-0a18328bfbdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/p/arthome-tanaman-artifisial-succulent-mix-in-shaw-pot-b.html?itm_source=cart&amp;itm_campaign=hanging-cart&amp;itm_term=10505348')])[2]</value>
+      <webElementGuid>2cfcca00-7815-4329-9aa3-655d9dff57f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/a</value>
+      <webElementGuid>181eacff-36d2-448e-ada2-d05638be7ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/p/arthome-tanaman-artifisial-succulent-mix-in-shaw-pot-b.html?itm_source=cart&amp;itm_campaign=hanging-cart&amp;itm_term=10505348' and (text() = 'Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B' or . = 'Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B')]</value>
+      <webElementGuid>605c48b2-f52f-44bc-bf66-16d1d2dd6c2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

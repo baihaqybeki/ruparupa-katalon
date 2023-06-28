@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logo_homepage</name>
+   <tag></tag>
+   <elementGuidId>142bce7d-34ae-49d6-8cd1-ac941b18cc93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src = 'https://cdn.ruparupa.io/promotion/ruparupa/web-header/web-header-177.svg' and @alt = 'ruparupa logo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;ruparupa logo&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7352595f-7d90-4e31-8de4-db87062cba3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.ruparupa.io/promotion/ruparupa/web-header/web-header-177.svg</value>
+      <webElementGuid>a094ba16-9f21-41d2-a76b-495e9b1597c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>177</value>
+      <webElementGuid>ab961667-692a-4c09-92c8-b0fa667a6a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>32</value>
+      <webElementGuid>c2877c25-698e-443e-ab37-ad983c2e6b2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>ruparupa logo</value>
+      <webElementGuid>5cb46ad4-e0b5-4b5b-ad50-d1dcffdfc8b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-top&quot;)/div[@class=&quot;menu__desktop__ruparupa&quot;]/div[@class=&quot;menu__desktop&quot;]/a[@class=&quot;logo-space logo__ruparupa&quot;]/div[1]/img[1]</value>
+      <webElementGuid>2fbc34b6-3186-4c71-a7c7-128cb5b4174f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-top']/div[2]/div/a/div/img</value>
+      <webElementGuid>e578b7dc-27a4-4c94-83d5-912134a912a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='ruparupa logo']</value>
+      <webElementGuid>f3daedbc-9341-4992-9738-a2cf9c6ddd0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>5051119b-ea3a-4742-99a1-f62c37a44c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.ruparupa.io/promotion/ruparupa/web-header/web-header-177.svg' and @alt = 'ruparupa logo']</value>
+      <webElementGuid>d37e2d58-0954-4559-bcdb-ebb48d87bda1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

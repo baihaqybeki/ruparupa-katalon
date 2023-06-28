@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_product</name>
+   <tag></tag>
+   <elementGuidId>f859d1e6-7d3a-4d4b-87c0-36061e29c7c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='productsCarousel']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#productsCarousel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>48d8dd2a-16d6-4286-8b3f-fa4999ce84cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container-card__product container-card__product--mobile</value>
+      <webElementGuid>2911aad1-f2ff-4f2e-a110-849ff07bac38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>productsCarousel</value>
+      <webElementGuid>8dc9f853-34c6-4a5d-89a9-3bda26951ab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Arthome Tanaman Artifisial Succulent Mix In Shaw Pot BRp249.900Buy 1 Get 1</value>
+      <webElementGuid>12b06d6c-72eb-4a26-9a5b-2ed113f8a833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;container container__desktop&quot;]/div[1]/section[3]/div[@class=&quot;row flex&quot;]/div[@class=&quot;col-xs-10 padding-left-xs padding-top-m&quot;]/div[@class=&quot;row__wrappers padding-top-xl&quot;]/div[@class=&quot;row product-card&quot;]/div[@class=&quot;content__product&quot;]/div[@id=&quot;productsCarousel&quot;]</value>
+      <webElementGuid>bf310ddb-1b02-4296-9f33-fbfa9f8e1362</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='productsCarousel']</value>
+      <webElementGuid>fe41e5b9-bace-4fc7-89cd-c3179f2f74b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/section[3]/div/div[2]/div[3]/div/div/div</value>
+      <webElementGuid>f2ff6aac-42aa-461b-b0ff-e64fc3f3e4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diskon Tertinggi'])[1]/following::div[5]</value>
+      <webElementGuid>f3038b83-c632-4e80-8a5b-f27661d70161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Tertinggi'])[1]/following::div[5]</value>
+      <webElementGuid>6b333301-983a-4556-a1f4-56b28559bd64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div</value>
+      <webElementGuid>ea79bb9a-6d02-4955-9b60-80f1ec7a7dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'productsCarousel' and (text() = 'Arthome Tanaman Artifisial Succulent Mix In Shaw Pot BRp249.900Buy 1 Get 1' or . = 'Arthome Tanaman Artifisial Succulent Mix In Shaw Pot BRp249.900Buy 1 Get 1')]</value>
+      <webElementGuid>6f7359b6-b421-4160-a986-59cf7f060e77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Product Title</name>
+   <tag></tag>
+   <elementGuidId>d22a54a0-5e95-479e-be3d-1ea58df04742</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B' or . = 'Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.main-pdp_title__1Pju_</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>425c2032-eca4-4b06-96aa-996499e734e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-pdp_title__1Pju_</value>
+      <webElementGuid>c7125886-07da-4dc1-958a-d65336b57785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B</value>
+      <webElementGuid>b3946b83-094f-490b-9e25-4777ea0e0404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;container container__desktop container-pdp__desktop&quot;]/div[@class=&quot;main-pdp_product-detail-container-page__2nWLM&quot;]/div[1]/section[@class=&quot;main-pdp_product-information-container__3wkS8&quot;]/div[@class=&quot;col-xs-8 main-pdp_information__2YLFG&quot;]/div[@class=&quot;main-pdp_title__1Pju_&quot;]</value>
+      <webElementGuid>bccb1f44-5022-4edf-ad88-3992d03645d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/section[2]/div/div</value>
+      <webElementGuid>cbdcaa2b-5b29-41ca-8b18-8c5021cb421e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Deals'])[1]/following::div[9]</value>
+      <webElementGuid>1778d7a0-5495-4406-8a1a-e25a65a02fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mainan &amp; Bayi'])[1]/following::div[12]</value>
+      <webElementGuid>5f965523-2744-4713-b40b-173ae32b9c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B']/parent::*</value>
+      <webElementGuid>be819454-1354-452f-ba67-944429d27723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div</value>
+      <webElementGuid>69bf2ec0-ca3c-40e2-bcc8-f93d6343b028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B' or . = 'Arthome Tanaman Artifisial Succulent Mix In Shaw Pot B')]</value>
+      <webElementGuid>c907d53a-ce5d-4fc0-93d0-3d2cc0083d91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

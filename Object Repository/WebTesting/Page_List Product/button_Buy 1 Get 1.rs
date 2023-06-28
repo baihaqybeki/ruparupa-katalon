@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Buy 1 Get 1</name>
+   <tag></tag>
+   <elementGuidId>d69c597d-b86a-4574-9323-1b013f6498a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Buy 1 Get 1' or . = 'Buy 1 Get 1')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b0684acd-fd7f-414c-93b1-43cd778889c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> button text__grey100 button--medium button__primary-border--ghost  button__primary-border--ghost-ruparupa</value>
+      <webElementGuid>db79d5c7-be1d-4711-a675-d3d9fca4878c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>08925f15-78fb-405a-acf9-53b1fc2a6b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buy 1 Get 1</value>
+      <webElementGuid>d4cda0cb-8640-4001-bb96-103a7f05a9fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;container container__desktop&quot;]/div[1]/section[3]/div[@class=&quot;row flex&quot;]/div[@class=&quot;col-xs-2 bg-coachmark&quot;]/div[@id=&quot;scrollbar&quot;]/div[@class=&quot;filter&quot;]/div[2]/div[@class=&quot;container-filter-color&quot;]/div[@class=&quot;margin-top-xs&quot;]/button[@class=&quot;button text__grey100 button--medium button__primary-border--ghost  button__primary-border--ghost-ruparupa&quot;]</value>
+      <webElementGuid>36b4cef0-d28e-43e2-8aa3-111984b05ad4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[23]</value>
+      <webElementGuid>a1569ae6-0bec-4996-9f66-1f10862c48b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollbar']/div[6]/div[2]/div/div/button</value>
+      <webElementGuid>5a3aa599-f386-415a-b041-5edbea104a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[9]/following::button[1]</value>
+      <webElementGuid>65bc7b25-649c-4579-985d-4d315a285f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo'])[1]/following::button[2]</value>
+      <webElementGuid>e71c86c7-197e-408d-8f1d-3c5fe85adbed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Arrivals'])[2]/preceding::button[1]</value>
+      <webElementGuid>c02f2eae-47a1-4e21-9152-6ed35d86d078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spesial Online'])[1]/preceding::button[2]</value>
+      <webElementGuid>a69fde1a-0e41-4e62-a56a-b10253fe6c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buy 1 Get 1']/parent::*</value>
+      <webElementGuid>db045bdd-bc0f-4827-8c21-7c4d218e58aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/button</value>
+      <webElementGuid>59b7478d-9e56-40b1-afe2-a28b9367982e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Buy 1 Get 1' or . = 'Buy 1 Get 1')]</value>
+      <webElementGuid>21b58e83-0588-49bb-9a04-aef03d6c0582</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
